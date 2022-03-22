@@ -30,6 +30,6 @@
       "forcePublish": "@midwayjs/version"
     }
   },
-  "npmClient": "tnpm",
+  "npmClient": "npm",
   "version": "3.1.5"
 }
